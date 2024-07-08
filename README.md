@@ -11,3 +11,5 @@ zombie-movement,Follow-up Machenism
 
 download here
 https://jklujaipur-my.sharepoint.com/:u:/g/personal/rishabhsharma21_jklu_edu_in/Eb6fA5VYs-JImF9LUwPkByoBtPb5U-DKbVmw13YPyF_RAw?e=aU6crS
+
+![image](https://github.com/Rishabh-Sh1rma/Zombie-survival-Game/assets/130218510/da519866-2c9b-482b-9d53-d56d6d543f64)
